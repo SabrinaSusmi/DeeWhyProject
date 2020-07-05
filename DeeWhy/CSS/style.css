@@ -228,7 +228,7 @@ header {
 	}
 
 	.nav-open .nav{
-		transform: translateX(40%);
+		transform: translateX(25%);
 	}
 
 	.nav-open .nav-toggle {
